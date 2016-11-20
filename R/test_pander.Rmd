@@ -1,0 +1,52 @@
+---
+title : "tapply vs aggregate"
+author : "coop2711"
+date : "`r Sys.Date()`"
+output: html_document
+---
+
+```{r, library-packages}
+library(pander)
+library(knitr)
+library(RCurl)
+library(data.table)
+# panderOptions()
+panderOptions("table.split.table", Inf)
+options(width=180)
+```
+
+```{r, tapply-pander}
+githubURL <- "https://github.com/kwlee58/Doorae/R/doorae_new1015.rda"
+# load(url(githubURL))
+tmpfile <- tempfile()
+download.file(githubURL, destfile=tmpfile, method="curl")
+url.data <- fread(tmpfile, ...)
+load(url.data)
+# getURLContent(githubURL, binary=TRUE)
+#load("~/Dropbox/Works/Research_Data/Doorae/R/doorae_new.rda")
+(tapply.ys <- tapply(doorae$"업력", doorae$"공동체상태", summary))
+tapply.ys[[1]]
+tapply.ys[1]
+str(tapply.ys[1])
+str(tapply.ys[[1]])
+names(tapply.ys[[1]])
+names(tapply.ys[[1]]) <- c("최소값", "제1사분위수", "중위수", "산술평균", "제3사분위수", "최대값")
+names(tapply.ys[[2]]) <- c("최소값", "제1사분위수", "중위수", "산술평균", "제3사분위수", "최대값")
+tapply.ys
+pander(tapply.ys)
+```
+
+```{r, aggregate-kable}
+doorae.ag <- aggregate(업력~공동체상태, data=doorae, summary)
+names(aggregate(업력~공동체상태, data=doorae, summary))
+xtabs(업력~공동체상태, doorae.ag)
+doorae.xtab <- xtabs(업력~공동체상태, doorae.ag)
+str(doorae.xtab)
+rownames(doorae.xtab)
+colnames(doorae.xtab)
+dimnames(doorae.xtab)<-list("공동체상태"=rownames(doorae.xtab), "업력"=names(tapply.ys[[1]]))
+str(doorae.xtab)
+kable(xtabs(업력~공동체상태, doorae.ag), caption="<공동체상태와 업력>")
+kable(doorae.xtab, caption="<공동체상태와 업력>")
+```
+

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VmInfo schemaVersion="1.0" dyn_lists="">
+   <GuestOsInformation dyn_lists="GuestToolsList 1">
+      <Started>0</Started>
+      <ConfOsType></ConfOsType>
+      <ConfOsVersion></ConfOsVersion>
+      <RealOsType>Microsoft Windows, 64bit, 1 cpu(s), page: 4096b</RealOsType>
+      <RealOsVersion>6.1.7601, Service Pack 1</RealOsVersion>
+      <RealOsDetails>ServicePack: 1.0; SuiteMask: 0x100; ProductType: 1; ProductEdition: 48</RealOsDetails>
+      <GuestToolsList id="0" dyn_lists="GuestToolInfo 55">
+         <GuestToolInfo id="0" dyn_lists="">
+            <ToolId>parallels.TIS.host.cross</ToolId>
+            <ToolName>Tools Information Service host side</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.3</ToolInternalVersion>
+            <ToolDate>2015-10-28T22:57:00Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>dummy</ToolStringData>
+            <ToolUpdateStatus>N/A</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="1" dyn_lists="">
+            <ToolId>parallels.CEPTool.guest.win</ToolId>
+            <ToolName>CEP tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:13Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Stopped</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="2" dyn_lists="">
+            <ToolId>parallels.toolgate.guest.win</ToolId>
+            <ToolName>PCI Toolgate device driver</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:38:33Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="3" dyn_lists="">
+            <ToolId>parallels.UserInputEmulation.guest.cross.Pax</ToolId>
+            <ToolName>User Input Emulation PAX support</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="4" dyn_lists="">
+            <ToolId>parallels.Antivirus.guest.win.drweb</ToolId>
+            <ToolName></ToolName>
+            <ToolVersion>0.0.0.0</ToolVersion>
+            <ToolInternalVersion>0.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T22:57:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>N/A</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="5" dyn_lists="">
+            <ToolId>parallels.GuestSharing.guest.win</ToolId>
+            <ToolName>Guest File System Sharing Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:10Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="6" dyn_lists="">
+            <ToolId>parallels.ShellIntHelper.guest.win.sesnId=1</ToolId>
+            <ToolName>Shell Integration Helper</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:39:01Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>ProcessId: 1368
+</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="7" dyn_lists="">
+            <ToolId>parallels.GuestOSInfo.guest.cross</ToolId>
+            <ToolName>Guest OS Information</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.1</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:39:00Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData>3c01000008000000400000000100000000100000000000000000000000000000180100000600000001000000b11d000053657276696365205061636b20310000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000001010030000000</ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="8" dyn_lists="">
+            <ToolId>parallels.CookieTool.guest.win</ToolId>
+            <ToolName>Cookie Injector Tool prl_cc plugin</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:10Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="9" dyn_lists="">
+            <ToolId>parallels.DynamicResolution.guest.win</ToolId>
+            <ToolName>Parallels Dynamic Resolution Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>deinitialized</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="10" dyn_lists="">
+            <ToolId>parallels.UserInputEmulation.guest.cross.TextInput</ToolId>
+            <ToolName>User Input Emulation: TextInput</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="11" dyn_lists="">
+            <ToolId>parallels.PrintingTool.guest.win.service</ToolId>
+            <ToolName>Printing Tool Service</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:13Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="12" dyn_lists="">
+            <ToolId>parallels.SharedProfile.guest.win</ToolId>
+            <ToolName>Shared Profile tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="13" dyn_lists="">
+            <ToolId>parallels.SlidingMouse.guest.win</ToolId>
+            <ToolName>Mouse Synchronization Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:38:45Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="14" dyn_lists="">
+            <ToolId>parallels.SharedHostApps.guest.win.ShellExt2</ToolId>
+            <ToolName>Shared Host Applications Shell Extension</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:45:05Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="15" dyn_lists="">
+            <ToolId>parallels.DragDropTool.guest.win</ToolId>
+            <ToolName>Drag-and-drop tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:10Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="16" dyn_lists="">
+            <ToolId>parallels.Antivirus.guest.win.kaspersky</ToolId>
+            <ToolName></ToolName>
+            <ToolVersion>0.0.0.0</ToolVersion>
+            <ToolInternalVersion>0.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T22:57:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>N/A</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="17" dyn_lists="">
+            <ToolId>parallels.Antivirus.guest.win.norton</ToolId>
+            <ToolName></ToolName>
+            <ToolVersion>0.0.0.0</ToolVersion>
+            <ToolInternalVersion>0.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T22:57:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>N/A</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="18" dyn_lists="">
+            <ToolId>parallels.SharedFolders.guest.win</ToolId>
+            <ToolName>Shared Folders file system driver</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>4.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:38:44Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>psfhost:Mac;</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="19" dyn_lists="">
+            <ToolId>parallels.CopyPasteTool.guest.win</ToolId>
+            <ToolName>Copy-paste tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:10Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="20" dyn_lists="">
+            <ToolId>parallels.ToolsInstallation.guest.win</ToolId>
+            <ToolName>ToolsInstallation</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:13Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData>030000000b0000000000000002000000747a0000</ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="21" dyn_lists="">
+            <ToolId>parallels.Coherence.guest.win</ToolId>
+            <ToolName>Parallels Coherence Service</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:13Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="22" dyn_lists="">
+            <ToolId>parallels.UserProfileHelper.guest.win</ToolId>
+            <ToolName>User Profile Helper</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:38:52Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>setting handler 0: success
+setting handler 1: failure
+</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="23" dyn_lists="">
+            <ToolId>parallels.GracefulShutdown.guest.win</ToolId>
+            <ToolName>Graceful Shutdown tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.1</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData>1f000000</ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="24" dyn_lists="">
+            <ToolId>parallels.SFilter.guest.win</ToolId>
+            <ToolName>SFilter driver</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>0.2</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:38:37Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Loaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="25" dyn_lists="">
+            <ToolId>parallels.FullscreenMonitor.guest.win</ToolId>
+            <ToolName>Fullscreen Monitor prl_cc plugin</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="26" dyn_lists="">
+            <ToolId>parallels.TimeSynchronization.guest.win.drv</ToolId>
+            <ToolName>Time synchronization driver</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:39:12Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="27" dyn_lists="">
+            <ToolId>parallels.Paravirt.guest.cross</ToolId>
+            <ToolName>Parallels Paravirtualization driver</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>4.12</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:38:37Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="28" dyn_lists="">
+            <ToolId>parallels.LayoutSync.guest.win</ToolId>
+            <ToolName>Keyboard Layout Synchronization Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="29" dyn_lists="">
+            <ToolId>parallels.PrintingTool.guest.win.plugin</ToolId>
+            <ToolName>Printing Tool prl_cc plugin</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="30" dyn_lists="">
+            <ToolId>parallels.SIAUser.guest.win</ToolId>
+            <ToolName>Shared Internet Applications (user-side) Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>2.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="31" dyn_lists="">
+            <ToolId>parallels.SharedGuestApps.guest.win.plugin.jumplists</ToolId>
+            <ToolName>Shared Guest Applications: support for Jump Lists integration</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="32" dyn_lists="">
+            <ToolId>parallels.DesktopUtilitiesUser.guest.win</ToolId>
+            <ToolName>Guest desktop utilities (user-side tool)</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:10Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="33" dyn_lists="">
+            <ToolId>parallels.DesktopUtilitiesService.guest.win</ToolId>
+            <ToolName>Guest desktop utilities (service-side tool)</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="34" dyn_lists="">
+            <ToolId>parallels.ControlCenter.guest.win.sesnId=1</ToolId>
+            <ToolName>Control Center</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:10Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Process 2212(8a4)
+CookieTool.dll(000007FEF8500000) started in 00.000 sec
+CopyPasteTool.dll(000007FEF7700000) started in 00.000 sec
+DesktopUtilities.dll(000007FEF7660000) started in 00.015 sec
+DragAndDrop.dll(000007FEF7640000) started in 00.047 sec
+FileSharing.dll(000007FEF7620000) started in 00.031 sec
+FullscreenMonitor.dll(000007FEF7600000) started in 00.031 sec
+IEPlugin.dll(000007FEF75E0000) started in 00.000 sec
+LayoutSync.dll(000007FEF75C0000) started in 00.016 sec
+PrintingTool.dll(000007FEF75A0000) started in 00.000 sec
+SharedGuestApps.dll(000007FEF7520000) started in 00.000 sec
+SharedHostApps.dll(000007FEF74F0000) started in 00.047 sec
+SharedIntApp.dll(000007FEF74C0000) started in 00.000 sec
+SharedProfile.dll(000007FEF74A0000) started in 00.031 sec
+ShellInt.dll(000007FEF7480000) started in 00.140 sec
+VSDebug.dll(000007FEF7460000) started in 00.032 sec
+WalkingMouse.dll(000007FEF7440000) unloaded due to failed to start: err = -1, 00.046 sec
+VSDebug.dll stopped in 00.016 sec with 0 status
+ShellInt.dll stopped in 00.015 sec with 0 status
+SharedProfile.dll stopped in 00.047 sec with 0 status
+SharedIntApp.dll stopped in 00.016 sec with 0 status
+SharedHostApps.dll stopped in 00.000 sec with 0 status
+SharedGuestApps.dll stopped in 00.078 sec with 0 status
+PrintingTool.dll stopped in 00.078 sec with 0 status
+LayoutSync.dll stopped in 00.000 sec with 0 status
+IEPlugin.dll stopped in 00.015 sec with 0 status
+FullscreenMonitor.dll stopped in 00.000 sec with 0 status
+FileSharing.dll stopped in 00.921 sec with 0 status
+DragAndDrop.dll stopped in 00.015 sec with 0 status
+DesktopUtilities.dll stopped in 00.437 sec with 0 status
+CopyPasteTool.dll stopped in 00.016 sec with 0 status
+CookieTool.dll stopped in 00.000 sec with 0 status
+last action: finished, uptime: 15h 49 min 24.701 sec
+</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="35" dyn_lists="">
+            <ToolId>parallels.SharedHostApps.guest.win.shellext</ToolId>
+            <ToolName>Shared Host Applications shell extension</ToolName>
+            <ToolVersion>10.2.29105.0</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-09-01T22:08:04Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>Outdated</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="36" dyn_lists="">
+            <ToolId>parallels.NativeLook.guest.win</ToolId>
+            <ToolName>Native Look</ToolName>
+            <ToolVersion>10.2.29105.0</ToolVersion>
+            <ToolInternalVersion>2.0</ToolInternalVersion>
+            <ToolDate>2015-09-01T14:34:19Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData>01000000ffffffff00000000000000000000000000000000</ToolData>
+            <ToolStringData>0</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="37" dyn_lists="">
+            <ToolId>parallels.ShellInt.guest.win</ToolId>
+            <ToolName>Shell Integration tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="38" dyn_lists="">
+            <ToolId>parallels.TimeSynchronization.guest.win</ToolId>
+            <ToolName>Time Synchronization tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.4</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="39" dyn_lists="">
+            <ToolId>parallels.IpRenew.guest.win</ToolId>
+            <ToolName>Tool for renewing IP address obtained through DHCP</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="40" dyn_lists="">
+            <ToolId>parallels.SharedGuestApps.guest.win.plugin</ToolId>
+            <ToolName>Shared Guest Applications prl_cc plugin</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="41" dyn_lists="">
+            <ToolId>parallels.SFilter.guest.win.0x0</ToolId>
+            <ToolName>SFilter driver</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>0.2</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:38:37Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Connected</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="42" dyn_lists="">
+            <ToolId>parallels.UserInputEmulation.guest.cross.PointScroll</ToolId>
+            <ToolName>User Input Emulation: PointScroll</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="43" dyn_lists="">
+            <ToolId>parallels.VideoDevicesInfo.guest.cross</ToolId>
+            <ToolName>Guest video device detection</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:39:00Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData>02000000000000000000000000000000</ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="44" dyn_lists="">
+            <ToolId>parallels.UsbMouse.guest.win</ToolId>
+            <ToolName>Usb Mouse Synchronization Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T22:57:16Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="45" dyn_lists="">
+            <ToolId>parallels.UserInputEmulation.guest.win.plugin</ToolId>
+            <ToolName>User Input Emulation prl_cc plugin</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>2.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:11Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="46" dyn_lists="">
+            <ToolId>parallels.WindowsUpdate.guest.win</ToolId>
+            <ToolName>Windows Update service state</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:13Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData>ffffffff000000000000000000000000</ToolData>
+            <ToolStringData>(service not running or not available)</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="47" dyn_lists="">
+            <ToolId>parallels.ToolsInstallStage.guest.cross</ToolId>
+            <ToolName>Parallels Tools Installation stage</ToolName>
+            <ToolVersion>11.0.1-31277</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-13T15:28:47Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData>02000000000000000000000000000000</ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>Outdated</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="48" dyn_lists="">
+            <ToolId>parallels.OSEvaluation.guest.win</ToolId>
+            <ToolName></ToolName>
+            <ToolVersion>0.0.0.0</ToolVersion>
+            <ToolInternalVersion>0.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T22:57:32Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>N/A</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="49" dyn_lists="">
+            <ToolId>parallels.Antivirus.guest.win.thirdparty</ToolId>
+            <ToolName>Third-party Windows antivirus</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T22:57:33Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData>00000000000000000000000000000000</ToolData>
+            <ToolStringData>V3 Lite</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="50" dyn_lists="">
+            <ToolId>parallels.GuestInfo.guest.win</ToolId>
+            <ToolName>CEP guest info (last collected)</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-17T16:46:49Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData>0000000005000000ffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000005b9a6a310326d9c438f2c19fbbe97c97</ToolData>
+            <ToolStringData>Started</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="51" dyn_lists="">
+            <ToolId>parallels.CpuUsage.guest.win</ToolId>
+            <ToolName>prl_cpuusage tool</ToolName>
+            <ToolVersion>0.0.0.0</ToolVersion>
+            <ToolInternalVersion>0.0</ToolInternalVersion>
+            <ToolDate>2015-10-28T10:39:00Z</ToolDate>
+            <ToolState>1</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>N/A</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="52" dyn_lists="">
+            <ToolId>parallels.VmExec.guest.cross</ToolId>
+            <ToolName>VmExec</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:13Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData></ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="53" dyn_lists="">
+            <ToolId>parallels.SharedHostApps.guest.win.plugin</ToolId>
+            <ToolName>Shared Host Applications Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+         <GuestToolInfo id="54" dyn_lists="">
+            <ToolId>parallels.VSDebug.guest.win.plugin</ToolId>
+            <ToolName>VSDebug Tool</ToolName>
+            <ToolVersion>11.0.2-31348</ToolVersion>
+            <ToolInternalVersion>1.0</ToolInternalVersion>
+            <ToolDate>2015-10-29T14:37:09Z</ToolDate>
+            <ToolState>2</ToolState>
+            <ToolData></ToolData>
+            <ToolStringData>Unloaded</ToolStringData>
+            <ToolUpdateStatus>UpToDate</ToolUpdateStatus>
+         </GuestToolInfo>
+      </GuestToolsList>
+   </GuestOsInformation>
+   <AdvancedEngineInfo dyn_lists="">
+      <EngineTypeStr>KernelContext</EngineTypeStr>
+      <EngineTypeNum>2</EngineTypeNum>
+   </AdvancedEngineInfo>
+</VmInfo>
